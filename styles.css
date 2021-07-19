@@ -1,0 +1,66 @@
+* {
+    border: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+a { color: #0095f6 }
+
+.home {
+    background-color: #FAFAFA;
+    align-items: center;
+    height: 100%;
+}
+.insta-smartphone img{
+    height: 520px;
+    margin-left: 20%;
+    margin-top: 4%;
+}
+.menu {
+    text-align: center;
+    align-items: center;
+    background-color: white;
+    border: 1px lightgrey solid;
+    width: 350px;
+    height: 340px;
+    margin-top: -30%;
+    margin-left: 52%;
+}
+.insta-photo img{
+    margin-top: 17px;
+    margin-bottom:  10px;
+    align-items: center;
+    height: 68px;
+}
+.profile-picture img{
+    height: 100px;
+    border-radius: 60%;
+    margin: 10px;
+    margin-bottom: 18px;
+}
+.login{ 
+    padding: 8px;
+    border-radius: 6px;
+    background-color: #0095f6 ;
+    color: cornsilk;
+    font-family: sans-serif;
+    font-size: 13px;
+    margin: 60px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.logout{
+
+    font-family: sans-serif;
+    font-size: 13px;
+    margin: 30px;
+}
+.rodape{
+    margin-top: 12%;
+    margin-bottom: 5% ;
+    text-align: center;
+    color: lightslategray;
+    font-size: 12px;
+}
